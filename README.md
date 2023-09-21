@@ -1,9 +1,13 @@
 # drakeredwind01s_resume
 
 I'm offering a 10% finders fee for the first months paycheck
+
 I will add more information as needed.
+
 If there is anything you want added please submit an issue.
+
 for the fastest answers please join my discord at:
+
 > https://discord.gg/WbcWqVq
 
 Thank you for your time and efforts in advance!
