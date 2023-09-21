@@ -2,6 +2,8 @@
 
 I'm offering a 10% finders fee for the first months paycheck
 
+https://github.com/drakeredwind01/drakeredwind01s_resume
+
 I will add more information as needed.
 
 If there is anything you want added please submit an issue.
