@@ -4,7 +4,6 @@
 SUMMARY
 Results-driven cybersecurity analyst with 9+ years of experience in threat intelligence and security operations. Proficient in security tools, risk assessments, and incident response procedures. Seeking to leverage technical skills and expertise to protect sensitive data and assets at XYZ Corporation.
 
-
 EXPERIENCE
 CyberSecurity Specialist |Freelance | San Diego, CA | Jun 2021 - present
 Conducted daily security monitoring and threat analysis to identify vulnerabilities and potential threats.
