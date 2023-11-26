@@ -97,8 +97,6 @@ Equitable
 ### Schedule
 
 Full-time
-Pay found in job post
-Retrieved from the description.
 
 ### Base salary
 $85,000/yr - $110,000/yr (from job description)
