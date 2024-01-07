@@ -6,8 +6,14 @@ SUMMARY
 
 ## EXPERIENCE
 
-### CyberSecurity Specialist |Freelance | San Diego, CA | Jun 2021 - present
+### IT Specialist paid training | Arey Jones Educational Solutions | San Diego, CA | Nov 2023 - Dec 2023
+> analyzing/fixing computers.
+> 
+> repairing previously thought dead system boards
+> 
+> documenting step by step instructions IT book, so detailed a new recruit was able to use it without assistance.
 
+### CyberSecurity Specialist |Freelance | San Diego, CA | Jun 2021 - present
 > Conducted daily security monitoring and threat analysis to identify vulnerabilities and potential threats.
 > 
 > Developed and implemented security controls, including firewall rules, intrusion detection systems, and endpoint protection.
@@ -15,7 +21,6 @@ SUMMARY
 > Collaborated with cross-functional teams to perform risk assessments and maintain compliance with regulatory requirements.
 
 ### CyberSecurity  Specialist | Rock Church Jesus Geeks | Apr 2011 - Jan 2018
-
 > Conducted vulnerability scans, penetration testing, and security assessments to identify and mitigate risks.
 > 
 > Conducted security awareness training sessions for employees to raise awareness of cyber threats.
