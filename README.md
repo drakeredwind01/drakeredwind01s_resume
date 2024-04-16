@@ -2,7 +2,7 @@
 
 best resumes are in the [resumes](resumes) folder. [drakeredwind01s_resume.md](drakeredwind01s_resume.md) is just for quick reference. and could be incomplete.
 
-I'm offering a 10% finders fee for the first months paycheck
+I'm offering a 10% finders fee for the first months payment
 
 https://github.com/drakeredwind01/drakeredwind01s_resume
 
